@@ -106,6 +106,17 @@ st.markdown("""
     <textarea name="message" placeholder="Your message here..." required style="width:100%; padding:10px; margin-bottom:10px;"></textarea>
     <button type="submit" style="padding:10px 20px; background-color:#00ffe7; border:none; border-radius:5px; cursor:pointer;">Send ✉️</button>
 </form>
+            
+<br>
+
+<div style="margin-top: 20px;">
+    <a href="www.linkedin.com/in/saad-qamar-30557b21b" target="_blank" style="margin-right: 15px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" />
+    </a>
+    <a href="https://www.facebook.com/saad.qamar.50/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" />
+    </a>
+</div>
 """, unsafe_allow_html=True)
 
 # Footer
