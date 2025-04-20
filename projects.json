@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Ecommerce Website",
+    "description": "An online store platform with secure payments, product management, and user-friendly interface.",
+    "github": "https://github.com/SaadJavedQamar/Ecommerce",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnicepage.com%2Ffeatures%2Fc%2Fe-commerce&psig=AOvVaw2xBqoeqnXF_9l5RHJNJitY&ust=1745229474620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKivjMys5owDFQAAAAAdAAAAABAR"
+  },
+  {
+    "title": "Custom Web Scraping",
+    "description": "A custom web scraping solution built with Python, BeautifulSoup, and Selenium to extract structured data from dynamic websites.",
+    "github": "https://github.com/SaadJavedQamar/Custom-Web-Scraping-Scripts",
+    "image": "https://via.placeholder.com/400x200?text=Chat+App"
+  },
+  {
+    "title": "AI-Powered Text Summarizer",
+    "description": "A machine learning project that uses a Naive Bayes classifier to detect and classify spam emails based on text features.",
+    "github": "https://github.com/SaadJavedQamar/Spam-Email-Detection",
+    "image": "https://via.placeholder.com/400x200?text=Chat+App"
+  },
+  {
+    "title": "Python Games Collection",
+    "description": "A set of interactive games developed using Python, demonstrating skills in game logic and user interface design.",
+    "github": "https://github.com/SaadJavedQamar/Python_projects/tree/main/Games",
+    "image": "https://via.placeholder.com/400x200?text=Chat+App"
+  },
+  {
+    "title": "Airline Booking System",
+    "description": "Airline Booking System is a CLI based program that helps customers with flight booking procedures.",
+    "github": "https://github.com/SaadJavedQamar/Airline-Booking-System",
+    "image": "https://via.placeholder.com/400x200?text=Chat+App"
+  },
+  {
+    "title": "DevSecOps CI/CD Pipeline",
+    "description": "CI/CD Pipeline Deploymnet using CirleCi and DockerHub",
+    "github": "https://github.com/SaadJavedQamar/circleci-python-devsecops",
+    "image": "https://via.placeholder.com/400x200?text=Chat+App"
+  }
+
+]
